@@ -4,4 +4,5 @@
 
 소스: esthelogy/gaejjeoneungeo (private)
 
-플레이: https://esthelogy.github.io/dog/
+플레이: https://esthelogy.github.io/dog/ (미러: https://bizict.github.io/dog/)
+
